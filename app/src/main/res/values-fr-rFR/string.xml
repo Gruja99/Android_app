@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project</string>
+    <string name="menu">Étudiants:</string>
+    <string name="student1">Milos Milojevic MKT17/20</string>
+    <string name="student2">Luka Grujic MKT18/20</string>
+    <string name="title">Arbre:</string>
+    <string name="oak_title">Chêne</string>
+    <string name="oak">Un chêne est un arbre ou un arbuste du genre Quercus de la famille des hêtres, Fagaceae. Il existe environ 500 espèces de chênes.</string>
+    <string name="pine_title">Pin</string>
+    <string name="pine">Un pin est un conifère du genre Pinus de la famille des Pinaceae. Pinus est le seul genre de la sous-famille des Pinoideae. </string>
+    <string name="language">fr</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project</string>
+    <string name="menu">Estudiantes:</string>
+    <string name="student1">Milos Milojevic MKT17/20</string>
+    <string name="student2">Luka Grujic MKT18/20</string>
+    <string name="title">Árbol:</string>
+    <string name="oak_title">Roble</string>
+    <string name="oak">Un roble es un árbol o arbusto del género Quercus de la familia de las hayas, Fagaceae. Hay aproximadamente 500 especies de robles existentes.</string>
+    <string name="pine_title">Pino</string>
+    <string name="pine">Un pino es cualquier conífera del género Pinus de la familia Pinaceae. Pinus es el único género de la subfamilia Pinoideae.</string>
+    <string name="language">sp</string>
+</resources>

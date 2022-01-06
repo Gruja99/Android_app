@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="menu">Students:</string>
+    <string name="student1">Milos Milojevic MKT17/20</string>
+    <string name="student2">Luka Grujic MKT18/20</string>
+    <string name="title">Tree:</string>
+    <string name="oak_title">Oak</string>
+    <string name="oak">An oak is a tree or shrub in the genus Quercus of the beech family, Fagaceae. There are approximately 500 extant species of oaks.</string>
+    <string name="pine_title">Pine</string>
+    <string name="pine">A pine is any conifer in the genus Pinus of the family Pinaceae. Pinus is the sole genus in the subfamily Pinoideae. </string>
+    <string name="language">en</string>
+</resources>
